@@ -1,0 +1,12 @@
+pandas
+openpyxl
+langchain
+langchain-huggingface
+langchain-community
+sentence-transformers
+pydantic
+llama-cpp-python
+faiss-cpu
+
+
+
